@@ -1,8 +1,9 @@
 ## Fala galera!! sou o Theo!!
 
-- 🔭 Hoje trabalho como técnico de som da Igreja da Cidade
-- 🌱 Estudando Análise e Desenvolvimento de sistemas
+- 🎙️ Hoje trabalho como técnico de som da Igreja da Cidade
+- 💻 Estudando Análise e Desenvolvimento de sistemas
 - ⚡ Rock | One Piece | Pokemon | Palmeiras | Run for my Dream
+- 📗 STUDING A LOT BUT HAVING FUN!
 
 <div>
   <a href="https://github.com/Conecttheo"> 
