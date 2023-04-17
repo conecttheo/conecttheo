@@ -22,12 +22,14 @@
 ##
 
 <div align="center" style="display: inline_block">
-  <img align="center" alt="Ally-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
-  <img align="center" alt="Ally-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
-  <img align="center" alt="Ally-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ally-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ally-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="red" height="60" width="60" src="https://media.tenor.com/X_xh7_GIN9YAAAAj/rojo-pokemon.gif">
-           
+  <img align="center" alt="Ally-MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           
+  <img align="center" alt="Ally-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> 
+  <img align="center" alt="Ally-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="Ally-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Ally-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="red" height="60" width="60" src="https://media.tenor.com/X_xh7_GIN9YAAAAj/rojo-pokemon.gif">
+ 
+ ##
+ <img align="center" alt="michael-scott" src="https://media3.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif?cid=ecf05e47xegrhr7kr0i2vt7x9iabz5bk0wyn0vr4bv9jerl7&rid=giphy.gif&ct=g">     
 </div>
